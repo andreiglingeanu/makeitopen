@@ -3,7 +3,7 @@ pageid: 1-A2-relay
 series: buildingf8app
 partlabel: Appendix II
 type: appendix
-title: Using Relay and GraphQL
+title: Utilizăm Relay și GraphQL
 layout: docs
 permalink: /tutorials/building-the-f8-app/relay/
 ---

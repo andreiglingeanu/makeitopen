@@ -1,12 +1,14 @@
 ---
 pageid: 1-2-design
 series: buildingf8app
-partlabel: Part 2
+partlabel: Partea 2
 title: Designing an App for Multiple Platforms
+title: Design pentru o Aplicație pe Platforme Multiple
 layout: docs
 permalink: /tutorials/building-the-f8-app/design/
 intro: >
-  We talk about how React Native apps should be, and can be, visually tailored for each platform, rather than being identical everywhere.
+  Vorbim despre cum se construiesc aplicațiile React Native și despre faptul că ele
+  nu trebuie să fie identice peste tot. Din contra, trebuie să fie vizual ajustate pentru fiecare platformă specifică.
 ---
 
 *This is a series of tutorials designed to introduce React Native and its Open Source ecosystem in plain English, written alongside the building of the F8 2016 app for Android and iOS.*

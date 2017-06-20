@@ -3,7 +3,7 @@ pageid: 1-A3-windows
 series: buildingf8app
 partlabel: Appendix III
 type: appendix
-title: Porting the F8 App To Windows
+title: Portăm Aplicația F8 pe Windows
 layout: docs
 permalink: /tutorials/building-the-f8-app/windows/
 ---

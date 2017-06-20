@@ -1,11 +1,14 @@
 # Site settings
 permalink: /posts/:year/:month/:day/:title/
-title: Makeitopen.com - Open Source Learning
-tagline: Connecting Facebook's Open Source projects
+title: Makeitopen.com - Cunoștințe Open Source
+tagline: Făcând legătura cu proiectele Open Source Facebook
 fbappid: ""
 gacode: "UA-44373548-14"
 description: >
-  This is a series of tutorials designed to introduce React Native and its Open Source ecosystem in plain English, written alongside the building of the F8 2016 app for Android and iOS.
+  Aceasta este o serie de tutoriale construite cu scopul de a servi drept o introducere
+  generală în React Native și în ecosistema lui Open Source, într-un limbaj cât mai
+  simplificat, exemplificând prin construirea aplicației FB 2016 pentru Android
+  și iOS.
 baseurl:
 url: http://makeitopen.com
 ghrepo: "facebook/makeitopen"

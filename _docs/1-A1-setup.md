@@ -3,7 +3,7 @@ pageid: 1-A1-local-setup
 series: buildingf8app
 partlabel: Appendix I
 type: appendix
-title: Running the App Locally
+title: Rulăm Aplicația Local
 layout: docs
 permalink: /tutorials/building-the-f8-app/local-setup/
 ---

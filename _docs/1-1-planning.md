@@ -1,12 +1,13 @@
 ---
 pageid: 1-1-planning
 series: buildingf8app
-partlabel: Part 1
-title: Planning The App
+partlabel: Partea 1
+title: Planificând Aplicația
 layout: docs
 permalink: /tutorials/building-the-f8-app/planning/
 intro: >
-  In this first part, we're going to talk about how we planned the app, and how and why we picked the stack of technologies to use.
+  În această primă parte vom discuta despre modul în care am planificat aplicația
+  și despre cum am ales set-ul de tehnologii spre utilizare.
 ---
 
 *This is a series of tutorials designed to introduce React Native and its Open Source ecosystem in plain English, written alongside the building of the F8 2016 app for Android and iOS.*

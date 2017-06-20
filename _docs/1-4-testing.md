@@ -1,12 +1,13 @@
 ---
 pageid: 1-4-testing
 series: buildingf8app
-partlabel: Part 4
-title: Testing a React Native App
+partlabel: Partea 4
+title: Testând aplicațiile React Native
 layout: docs
 permalink: /tutorials/building-the-f8-app/testing/
 intro: >
-  Explore how you can use Nuclide, Flow, and Jest with React Native to improve the quality of your code as you're writing it.
+  Explorăm cum poate fi utilizat Nuclide, Flow și Jest împreună cu React Native
+  pentru a îmbunătăți calitatea codului pe măsură ce el este scris.
 ---
 
 *This is a series of tutorials designed to introduce React Native and its Open Source ecosystem in plain English, written alongside the building of the F8 2016 app for [Android](https://play.google.com/store/apps/details?id=com.facebook.f8) and [iOS](https://itunes.apple.com/us/app/f8/id853467066).*
